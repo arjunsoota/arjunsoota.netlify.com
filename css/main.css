@@ -1,0 +1,30 @@
+.site-header{
+    background-color: brown;
+    color: white;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif; 
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.site-header-content{
+    margin: 10px;
+}
+
+.profile-pic{
+    border-radius: 50%;
+    height: 170px;
+    width: 170px;  
+    align-self: center;
+    box-shadow: #351010 2px 5px 5px;
+}
+
+.profile-link{
+    color : white;
+}
+
+body{
+    margin: 0;
+}
